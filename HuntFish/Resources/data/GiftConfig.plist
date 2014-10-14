@@ -1,0 +1,241 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<array>
+		<string>Nhà nghèo</string>
+		<string>1</string>
+		<string>1</string>
+	</array>
+	<array>
+		<string>Thượng lưu</string>
+		<string>2</string>
+		<string>2</string>
+	</array>
+	<array>
+		<string>Công tử</string>
+		<string>3</string>
+		<string>3</string>
+	</array>
+	<array>
+		<string>Tiểu thương</string>
+		<string>5</string>
+		<string>4</string>
+	</array>
+	<array>
+		<string>Thương gia</string>
+		<string>8</string>
+		<string>6</string>
+	</array>
+	<array>
+		<string>Dân chơi</string>
+		<string>12</string>
+		<string>10</string>
+	</array>
+	<array>
+		<string>Nhà giàu</string>
+		<string>17</string>
+		<string>14</string>
+	</array>
+	<array>
+		<string>Triệu phú</string>
+		<string>23</string>
+		<string>16</string>
+	</array>
+	<array>
+		<string>Đại gia</string>
+		<string>30</string>
+		<string>20</string>
+	</array>
+	<array>
+		<string>Tỉ phú</string>
+		<string>40</string>
+		<string>25</string>
+	</array>
+	<array>
+		<string>Vui vẻ</string>
+		<string>5</string>
+		<string>1</string>
+	</array>
+	<array>
+		<string>Thân thiện</string>
+		<string>5</string>
+		<string>1</string>
+	</array>
+	<array>
+		<string>Sành điệu</string>
+		<string>10</string>
+		<string>5</string>
+	</array>
+	<array>
+		<string>Hấp dẫn</string>
+		<string>10</string>
+		<string>5</string>
+	</array>
+	<array>
+		<string>Gợi cảm</string>
+		<string>10</string>
+		<string>5</string>
+	</array>
+	<array>
+		<string>Dễ thương</string>
+		<string>10</string>
+		<string>5</string>
+	</array>
+	<array>
+		<string>Đáng yêu</string>
+		<string>10</string>
+		<string>5</string>
+	</array>
+	<array>
+		<string>Cừ khôi</string>
+		<string>10</string>
+		<string>5</string>
+	</array>
+	<array>
+		<string>Bất bại</string>
+		<string>10</string>
+		<string>5</string>
+	</array>
+	<array>
+		<string>Dũng mãnh</string>
+		<string>10</string>
+		<string>5</string>
+	</array>
+	<array>
+		<string>Oai phong</string>
+		<string>15</string>
+		<string>7</string>
+	</array>
+	<array>
+		<string>Tài năng</string>
+		<string>15</string>
+		<string>7</string>
+	</array>
+	<array>
+		<string>Thần thông</string>
+		<string>15</string>
+		<string>7</string>
+	</array>
+	<array>
+		<string>Huyền thoại</string>
+		<string>20</string>
+		<string>10</string>
+	</array>
+	<array>
+		<string>Siêu đẳng</string>
+		<string>20</string>
+		<string>10</string>
+	</array>
+	<array>
+		<string>Vĩ đại</string>
+		<string>20</string>
+		<string>10</string>
+	</array>
+	<array>
+		<string>Đề đốc</string>
+		<string>15</string>
+		<string>10</string>
+	</array>
+	<array>
+		<string>Thống chế</string>
+		<string>20</string>
+		<string>15</string>
+	</array>
+	<array>
+		<string>Thái sư</string>
+		<string>20</string>
+		<string>15</string>
+	</array>
+	<array>
+		<string>Đại học sĩ</string>
+		<string>20</string>
+		<string>15</string>
+	</array>
+	<array>
+		<string>Thượng thư</string>
+		<string>20</string>
+		<string>15</string>
+	</array>
+	<array>
+		<string>Tướng quân</string>
+		<string>30</string>
+		<string>20</string>
+	</array>
+	<array>
+		<string>Công chúa</string>
+		<string>30</string>
+		<string>20</string>
+	</array>
+	<array>
+		<string>Nữ hoàng</string>
+		<string>40</string>
+		<string>25</string>
+	</array>
+	<array>
+		<string>Hoàng đế</string>
+		<string>40</string>
+		<string>25</string>
+	</array>
+	<array>
+		<string>Bạch dương</string>
+		<string>10</string>
+		<string>5</string>
+	</array>
+	<array>
+		<string>Bảo bình</string>
+		<string>10</string>
+		<string>5</string>
+	</array>
+	<array>
+		<string>Cự giải</string>
+		<string>10</string>
+		<string>5</string>
+	</array>
+	<array>
+		<string>Kim ngưu</string>
+		<string>10</string>
+		<string>5</string>
+	</array>
+	<array>
+		<string>Ma kết</string>
+		<string>10</string>
+		<string>5</string>
+	</array>
+	<array>
+		<string>Nhân mã</string>
+		<string>10</string>
+		<string>5</string>
+	</array>
+	<array>
+		<string>Song ngư</string>
+		<string>10</string>
+		<string>5</string>
+	</array>
+	<array>
+		<string>Song tử</string>
+		<string>10</string>
+		<string>5</string>
+	</array>
+	<array>
+		<string>Sư tử</string>
+		<string>10</string>
+		<string>5</string>
+	</array>
+	<array>
+		<string>Thiên bình</string>
+		<string>10</string>
+		<string>5</string>
+	</array>
+	<array>
+		<string>Thiên yết</string>
+		<string>10</string>
+		<string>5</string>
+	</array>
+	<array>
+		<string>Xử nữ</string>
+		<string>10</string>
+		<string>5</string>
+	</array>
+</array>
+</plist>
